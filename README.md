@@ -18,7 +18,7 @@
 
 ## 🧭 Profile
 
-Data analyst who builds the whole chain: collecting and cleaning data, modelling it in SQL, and delivering dashboards and automation that people actually use. My day job is procurement and PO process automation, where I am adding Generative and Agentic AI to cut manual processing and turnaround time. My projects are deployed, tested, and documented, so you can open them and judge the work yourself.
+Data analyst who builds the whole chain: collecting and cleaning data, modelling it in SQL, and delivering dashboards, ML models and automation that people actually use. My day job is procurement and PO process automation, where I am adding Generative and Agentic AI to cut manual processing and turnaround time. Two of my projects below are **live apps you can open right now**.
 
 | | |
 |---|---|
@@ -29,33 +29,64 @@ Data analyst who builds the whole chain: collecting and cleaning data, modelling
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Live Projects
 
-### 🌦️ [WeatherRetail Intelligence](https://github.com/SumanJha-tech/weatherretail-intelligence) &nbsp;·&nbsp; [**Live Demo ▶**](https://weatherretail-intelligence.streamlit.app/)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌦️ WeatherRetail Intelligence
 **Weather-driven demand and stockout risk for a six-store retail chain.**
-Joins two years of sales (35K facts, $13.5M revenue) to real Open-Meteo weather in a PostgreSQL star schema, measures which categories are weather-sensitive (correlation and demand slope), and converts the 7-day forecast into a 0–100 reorder risk score per store and category.
-- Quality-check gate, six SQL analysis views, and pytest known-answer tests
-- Four-page Streamlit dashboard, deployed publicly with a no-database fallback
-- `Python` `PostgreSQL` `SQL` `Pandas` `SciPy` `Streamlit` `Plotly`
 
-### 🤖 [AI Data Analyst Agent](https://github.com/SumanJha-tech/ai-data-analyst-agent)
+Joins two years of sales (35K facts, $13.5M revenue) to real Open-Meteo weather in a PostgreSQL star schema, measures which categories are weather-sensitive, and turns the 7-day forecast into a 0–100 reorder risk score per store and category.
+
+- Quality-check gate, six SQL analysis views, pytest tests
+- Four-page Streamlit dashboard, deployed publicly
+
+`Python` `PostgreSQL` `SQL` `Pandas` `SciPy` `Streamlit` `Plotly`
+
+[**▶ Live Demo**](https://weatherretail-intelligence.streamlit.app/) · [Code](https://github.com/SumanJha-tech/weatherretail-intelligence)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI Data Analyst Agent
 **Ask a question in plain English, get validated SQL, a chart, and a written insight.**
-Text-to-SQL agent powered by Gemini, DuckDB and Streamlit. Deployed and publicly live.
+
+Text-to-SQL agent powered by Gemini and DuckDB. It validates the generated query before running it, then returns the result as a chart with a plain-language summary.
+
+- LLM-generated SQL with a validation step
+- Streamlit app, deployed publicly
+
 `Python` `Gemini API` `DuckDB` `Streamlit` `Plotly`
 
-### 📉 [Customer Churn & Retention Analysis](https://github.com/SumanJha-tech/Customer-Churn-Analysis)
-**Who is about to leave, and why.**
-End-to-end churn analysis using cohort analysis, RFM segmentation and sentiment analysis to identify at-risk customers and retention drivers.
-`Python` `SQL` `Pandas` `Statistical Analysis`
+[**▶ Live Demo**](https://ai-data-analyst-agent-ge2wddq5x2zrynlgqiffr5.streamlit.app/) · [Code](https://github.com/SumanJha-tech/ai-data-analyst-agent)
 
-### 🛒 [E-commerce Price Scraper](https://github.com/SumanJha-tech/E-commerce-Price-Scraper)
-**Automated live price collection.**
-Scrapes live product data from Amazon (Selenium) with a BigBasket API fallback, built with robust logging and error handling.
-`Python` `Selenium` `Web Scraping`
+</td>
+</tr>
+</table>
 
-### 📊 BI Dashboards
-| Project | What it shows | Tools |
+---
+
+## 🧪 Machine Learning
+
+### [ML Case Studies](https://github.com/SumanJha-tech/ML-Case-Studies)
+A collection of applied machine learning projects, each in its own folder.
+
+| Case study | What it is | Highlights |
 |---|---|---|
+| **Energy Vision Using Weather** | Energy analysis driven by multi-city weather data | Flask web app, combined multi-city dataset, SQL schema for storage |
+| **Gender & Age Detector** | Real-time application that detects gender and age | Computer vision, live input |
+| **Start-up Success Prediction** | Predictive model for start-up outcomes | Classification on company features |
+
+---
+
+## 📊 Analytics & Automation
+
+| Project | What it does | Tools |
+|---|---|---|
+| [Customer Churn & Retention Analysis](https://github.com/SumanJha-tech/Customer-Churn-Analysis) | Finds at-risk customers and retention drivers with cohort analysis, RFM segmentation and sentiment analysis | `Python` `SQL` `Pandas` `Statistical Analysis` |
+| [E-commerce Price Scraper](https://github.com/SumanJha-tech/E-commerce-Price-Scraper) | Scrapes live Amazon product data (Selenium) with a BigBasket API fallback, with logging and error handling | `Python` `Selenium` `Web Scraping` |
 | [Power BI Dashboards](https://github.com/SumanJha-tech/PowerBI-Dashboards) | E-commerce sales and financial reporting as decision-ready visuals | `Power BI` `DAX` `Data Modeling` |
 | [Tableau Dashboards](https://github.com/SumanJha-tech/Tableau-Dashboards) | Sales performance with drill-down by region and category | `Tableau` `Data Visualization` |
 
@@ -77,7 +108,8 @@ Scrapes live product data from Amazon (Selenium) with a BigBasket API fallback, 
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-**Automation & Business Systems**
+**AI, Automation & Business Systems**
+![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
