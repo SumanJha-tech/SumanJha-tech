@@ -1,8 +1,10 @@
 <div align="center">
 
-# Suman Jha
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" width="100%" alt="" />
 
-### Data Analyst · Business Intelligence · Process Automation · Applied GenAI
+# Hi, I'm Suman Jha 👋
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2EA44F&center=true&vCenter=true&width=760&lines=Data+Analyst+%7C+Business+Intelligence+%26+Automation;SQL+%C2%B7+Python+%C2%B7+Power+BI+%C2%B7+Tableau+%C2%B7+Streamlit;Building+live+data+apps+and+applied+GenAI+workflows" alt="Typing SVG" />
 
 *I turn manual, repetitive data workflows into automated, reliable systems, using SQL, BI, Python and Generative AI to solve real business problems.*
 
@@ -12,13 +14,17 @@
 [![Email](https://img.shields.io/badge/Email-sumanjha0906@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumanjha0906@gmail.com)
 [![Phone](https://img.shields.io/badge/Call-+91--7879209587-2EA44F?style=for-the-badge&logo=phone&logoColor=white)](tel:+917879209587)
 
+![Profile views](https://komarev.com/ghpvc/?username=SumanJha-tech&label=Profile%20views&color=0e75b6&style=flat)
+
 </div>
 
 ---
 
-## 🧭 Profile
+## 🧭 About Me
 
-Data analyst who builds the whole chain: collecting and cleaning data, modelling it in SQL, and delivering dashboards, ML models and automation that people actually use. My day job is procurement and PO process automation, where I am adding Generative and Agentic AI to cut manual processing and turnaround time. Two of my projects below are **live apps you can open right now**.
+Data analyst who builds the whole chain: collecting and cleaning data, modelling it in SQL, and delivering dashboards, ML models and automation that people actually use. My day job is procurement and PO process automation, where I am adding Generative and Agentic AI to cut manual processing and turnaround time.
+
+**Two of my projects are live apps you can open right now** (see below).
 
 | | |
 |---|---|
@@ -26,6 +32,16 @@ Data analyst who builds the whole chain: collecting and cleaning data, modelling
 | 📚 **Currently learning** | Advanced agentic AI workflows, cloud data engineering, AI-augmented development (Claude, Cursor, GitHub Copilot) |
 | 🤝 **Open to** | Data analyst / BI roles, data automation, dashboarding and applied GenAI projects |
 | 💬 **Ask me about** | Power BI, Tableau, SQL, PostgreSQL, Python automation, Streamlit dashboards, web scraping, PO process automation |
+| 📍 **Location** | [FILL: city, India] |
+
+---
+
+## ⚡ At a Glance
+
+| 🌦️ WeatherRetail | 🤖 AI Data Analyst | 🧪 ML Case Studies |
+|:---:|:---:|:---:|
+| **35K** sales facts<br>**$13.5M** revenue analysed<br>**10** automated tests | **5-page** Streamlit app<br>Text-to-SQL with Gemini<br>Retry + demo-mode fallback | **3** applied ML projects<br>Flask · Computer Vision<br>Classification |
+| [Live demo](https://weatherretail-intelligence.streamlit.app/) | [Live demo](https://ai-data-analyst-agent-ge2wddq5x2zrynlgqiffr5.streamlit.app/) | [Repo](https://github.com/SumanJha-tech/ML-Case-Studies) |
 
 ---
 
@@ -53,10 +69,10 @@ Joins two years of sales (35K facts, $13.5M revenue) to real Open-Meteo weather 
 ### 🤖 AI Data Analyst Agent
 **Ask a question in plain English, get validated SQL, a chart, and a written insight.**
 
-Text-to-SQL agent powered by Gemini and DuckDB. It validates the generated query before running it, then returns the result as a chart with a plain-language summary.
+Text-to-SQL agent powered by Gemini and DuckDB over an e-commerce dataset. It validates the generated SQL before running it, returns a chart with a plain-language summary, and keeps working when the AI is unavailable.
 
-- LLM-generated SQL with a validation step
-- Streamlit app, deployed publicly
+- Retry with backoff, fallback model, and demo mode
+- Five pages: Dashboard, Chat Analyst, Anomaly Radar, My Data, Dataset Overview
 
 `Python` `Gemini API` `DuckDB` `Streamlit` `Plotly`
 
@@ -75,7 +91,7 @@ A collection of applied machine learning projects, each in its own folder.
 
 | Case study | What it is | Highlights |
 |---|---|---|
-| **Energy Vision Using Weather** | Energy analysis driven by multi-city weather data | Flask web app, combined multi-city dataset, SQL schema for storage |
+| **Energy Vision Using Weather** | Energy analysis driven by multi-city weather data | Flask web app, multi-city dataset, SQL schema |
 | **Gender & Age Detector** | Real-time application that detects gender and age | Computer vision, live input |
 | **Start-up Success Prediction** | Predictive model for start-up outcomes | Classification on company features |
 
@@ -85,10 +101,31 @@ A collection of applied machine learning projects, each in its own folder.
 
 | Project | What it does | Tools |
 |---|---|---|
-| [Customer Churn & Retention Analysis](https://github.com/SumanJha-tech/Customer-Churn-Analysis) | Finds at-risk customers and retention drivers with cohort analysis, RFM segmentation and sentiment analysis | `Python` `SQL` `Pandas` `Statistical Analysis` |
 | [E-commerce Price Scraper](https://github.com/SumanJha-tech/E-commerce-Price-Scraper) | Scrapes live Amazon product data (Selenium) with a BigBasket API fallback, with logging and error handling | `Python` `Selenium` `Web Scraping` |
-| [Power BI Dashboards](https://github.com/SumanJha-tech/PowerBI-Dashboards) | E-commerce sales and financial reporting as decision-ready visuals | `Power BI` `DAX` `Data Modeling` |
+| [Power BI Dashboards](https://github.com/SumanJha-tech/PowerBI-Dashboards) | Credit card finance, e-commerce sales and healthcare dashboards | `Power BI` `DAX` `Data Modeling` |
 | [Tableau Dashboards](https://github.com/SumanJha-tech/Tableau-Dashboards) | Sales performance with drill-down by region and category | `Tableau` `Data Visualization` |
+
+---
+
+## 💼 Experience
+
+| Role | Company | Duration |
+|---|---|---|
+| [FILL: your current role, e.g. Data Analyst / Procurement Analyst] | [FILL: company] | [FILL: Mon YYYY – Present] |
+| [FILL: previous role / internship] | [FILL: company] | [FILL: duration] |
+
+<!-- Add one bullet per role with a REAL result, e.g. "Automated PO processing for X, reducing turnaround from A to B". Only add numbers that are true. -->
+
+---
+
+## 🎓 Education
+
+[FILL: Degree, University, year]
+
+<!--
+## 🏆 Achievements & Certifications
+Add only real ones: certificates, competitions, rankings. Remove this section if you have none yet.
+-->
 
 ---
 
@@ -135,5 +172,7 @@ A collection of applied machine learning projects, each in its own folder.
 I am open to data analyst and BI opportunities. The fastest way to reach me is a call or email.
 
 📞 [+91-7879209587](tel:+917879209587) &nbsp;·&nbsp; ✉️ [sumanjha0906@gmail.com](mailto:sumanjha0906@gmail.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://linkedin.com/in/sumanjha-tech)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="" />
 
 </div>
