@@ -20,13 +20,13 @@
 
 ## 🧭 About Me
 
-I'm a Data Analyst who blends analytics, automation and applied AI to solve real business problems, with a specialization in **procurement and process automation**.
+I'm a Data Analyst who blends analytics, automation and applied AI to turn raw data into decisions. I work across the full data workflow: **extracting, cleaning and validating data, modelling it in SQL, and delivering dashboards and automation** that teams actually use.
 
-At [deltaanalytics.ai](https://deltaanalytics.ai), I manage the end-to-end flow of Purchase Order data: extracting it from email and e-commerce / quick-commerce platforms, validating and cleaning it, and loading it into a SAP-integrated system. It is a full ETL cycle that I own and continuously improve.
+At [deltaanalytics.ai](https://deltaanalytics.ai), I own a full ETL cycle for high-volume transactional data (Purchase Orders from email and e-commerce / quick-commerce platforms into a SAP-integrated system), and I continuously improve it. The same skills carry over to any data-heavy domain: retail, e-commerce, finance, supply chain and more.
 
 **What I bring**
 - Ownership of a high-volume, multi-client ETL workflow, with consistently high accuracy
-- Generative AI and Agentic AI automation that reduces manual effort and improves turnaround time across procurement operations
+- Generative AI and Agentic AI automation that reduces manual effort and improves turnaround time
 - Python, Selenium and BeautifulSoup scraping pipelines for automated data collection
 - SQL-driven reporting and Power BI / Tableau dashboards for stakeholder reporting
 - AI-augmented development (Claude, ChatGPT, GitHub Copilot, Cursor) to speed up scripting, debugging and workflow design
@@ -34,16 +34,16 @@ At [deltaanalytics.ai](https://deltaanalytics.ai), I manage the end-to-end flow 
 
 **Core stack:** SQL · Python · Power BI · Tableau · Selenium · BeautifulSoup · SAP · ETL · Generative AI / Agentic AI
 
-I am open to **Data Analyst, Business Intelligence and Data Automation roles globally**.
+I am open to **Data Analyst, Business Intelligence and Data Automation roles across industries, globally**.
 
 **Two of my projects are live apps you can open right now** (see below).
 
 | | |
 |---|---|
-| 🔧 **Currently building** | AI-driven automation for procurement workflows (Generative + Agentic AI) |
+| 🔧 **Currently building** | AI-driven data automation workflows (Generative + Agentic AI) |
 | 📚 **Currently learning** | Advanced agentic AI workflows, cloud data engineering, AI-augmented development (Claude, Cursor, GitHub Copilot) |
-| 🤝 **Open to** | Data analyst / BI roles, data automation, dashboarding and applied GenAI projects |
-| 💬 **Ask me about** | Power BI, Tableau, SQL, PostgreSQL, Python automation, Streamlit dashboards, web scraping, PO process automation |
+| 🤝 **Open to** | Data Analyst, Business Intelligence, Data Automation and Analytics Engineering roles |
+| 💬 **Ask me about** | SQL, Python, Power BI, Tableau, ETL, Streamlit dashboards, web scraping, SAP data, applied GenAI |
 | 📍 **Location** | India (remote-friendly) |
 
 ---
@@ -124,7 +124,7 @@ A collection of applied machine learning projects, each in its own folder.
 ### Data Analyst · [deltaanalytics.ai](https://deltaanalytics.ai)
 *Jul 2025 – Present · Full-time · Remote*
 
-- Own the end-to-end ETL cycle for **Purchase Order data**: extracting from email and e-commerce / quick-commerce channels, validating for accuracy, and loading into a SAP-integrated system daily
+- Own the end-to-end **ETL cycle for transactional data (Purchase Orders)**: extracting from email and e-commerce / quick-commerce channels, validating for accuracy, and loading into a SAP-integrated system daily
 - Monitor and improve the PO-fetching and SAP-integrated workflow, resolving issues before they affect downstream processing
 - Design and deploy **Generative AI and Agentic AI** automation to streamline procurement workflows and reduce manual effort
 - Build and maintain web scraping pipelines with Python, Selenium and BeautifulSoup
