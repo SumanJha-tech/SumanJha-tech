@@ -14,15 +14,27 @@
 [![Email](https://img.shields.io/badge/Email-sumanjha0906@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumanjha0906@gmail.com)
 [![Phone](https://img.shields.io/badge/Call-+91--7879209587-2EA44F?style=for-the-badge&logo=phone&logoColor=white)](tel:+917879209587)
 
-![Profile views](https://komarev.com/ghpvc/?username=SumanJha-tech&label=Profile%20views&color=0e75b6&style=flat)
-
 </div>
 
 ---
 
 ## 🧭 About Me
 
-Data analyst who builds the whole chain: collecting and cleaning data, modelling it in SQL, and delivering dashboards, ML models and automation that people actually use. My day job is procurement and PO process automation, where I am adding Generative and Agentic AI to cut manual processing and turnaround time.
+I'm a Data Analyst who blends analytics, automation and applied AI to solve real business problems, with a specialization in **procurement and process automation**.
+
+At [deltaanalytics.ai](https://deltaanalytics.ai), I manage the end-to-end flow of Purchase Order data: extracting it from email and e-commerce / quick-commerce platforms, validating and cleaning it, and loading it into a SAP-integrated system. It is a full ETL cycle that I own and continuously improve.
+
+**What I bring**
+- Ownership of a high-volume, multi-client ETL workflow, with consistently high accuracy
+- Generative AI and Agentic AI automation that reduces manual effort and improves turnaround time across procurement operations
+- Python, Selenium and BeautifulSoup scraping pipelines for automated data collection
+- SQL-driven reporting and Power BI / Tableau dashboards for stakeholder reporting
+- AI-augmented development (Claude, ChatGPT, GitHub Copilot, Cursor) to speed up scripting, debugging and workflow design
+- Ownership of client relationships across a multi-account portfolio
+
+**Core stack:** SQL · Python · Power BI · Tableau · Selenium · BeautifulSoup · SAP · ETL · Generative AI / Agentic AI
+
+I am open to **Data Analyst, Business Intelligence and Data Automation roles globally**.
 
 **Two of my projects are live apps you can open right now** (see below).
 
@@ -32,7 +44,7 @@ Data analyst who builds the whole chain: collecting and cleaning data, modelling
 | 📚 **Currently learning** | Advanced agentic AI workflows, cloud data engineering, AI-augmented development (Claude, Cursor, GitHub Copilot) |
 | 🤝 **Open to** | Data analyst / BI roles, data automation, dashboarding and applied GenAI projects |
 | 💬 **Ask me about** | Power BI, Tableau, SQL, PostgreSQL, Python automation, Streamlit dashboards, web scraping, PO process automation |
-| 📍 **Location** | [FILL: city, India] |
+| 📍 **Location** | India (remote-friendly) |
 
 ---
 
@@ -109,23 +121,39 @@ A collection of applied machine learning projects, each in its own folder.
 
 ## 💼 Experience
 
-| Role | Company | Duration |
-|---|---|---|
-| [FILL: your current role, e.g. Data Analyst / Procurement Analyst] | [FILL: company] | [FILL: Mon YYYY – Present] |
-| [FILL: previous role / internship] | [FILL: company] | [FILL: duration] |
+### Data Analyst · [deltaanalytics.ai](https://deltaanalytics.ai)
+*Jul 2025 – Present · Full-time · Remote*
 
-<!-- Add one bullet per role with a REAL result, e.g. "Automated PO processing for X, reducing turnaround from A to B". Only add numbers that are true. -->
+- Own the end-to-end ETL cycle for **Purchase Order data**: extracting from email and e-commerce / quick-commerce channels, validating for accuracy, and loading into a SAP-integrated system daily
+- Monitor and improve the PO-fetching and SAP-integrated workflow, resolving issues before they affect downstream processing
+- Design and deploy **Generative AI and Agentic AI** automation to streamline procurement workflows and reduce manual effort
+- Build and maintain web scraping pipelines with Python, Selenium and BeautifulSoup
+- Build and support SQL-driven reporting and Power BI / Tableau dashboards for internal tracking and stakeholder visibility
+- Apply AI-augmented development tools (Claude, ChatGPT, GitHub Copilot, Cursor) to accelerate scripting, debugging and workflow design
+- Own client communication across a multi-account portfolio, resolving process issues and maintaining account-level domain expertise
 
 ---
 
 ## 🎓 Education
 
-[FILL: Degree, University, year]
+**B.Tech, Computer Software Engineering** · ITM University, Gwalior
+*Sep 2021 – Jun 2025 · CGPA 8.07*
+Specialization in Data Science and Machine Learning. Built hands-on expertise in analytics, automation and BI through academic projects and virtual internships, including procurement automation, web scraping and Power BI / Tableau dashboards.
+*Activities: Data Science, Coding & Web Development, AI & ML Projects, Technical Workshops.*
 
-<!--
-## 🏆 Achievements & Certifications
-Add only real ones: certificates, competitions, rankings. Remove this section if you have none yet.
--->
+---
+
+## 🏅 Certifications
+
+| Certification | Issuer | Issued |
+|---|---|---|
+| SAP Certified – Process Data Analyst – SAP Signavio | SAP | Sep 2026 |
+| Agentic AI Certified Foundations Associate | Oracle | Jul 2026 |
+| AWS Academy Graduate – Cloud Foundations | Amazon Web Services | Sep 2024 |
+| Salesforce Certified Platform Developer I | Salesforce | May 2024 |
+| Data Science Master Virtual Internship | Altair | Jun 2024 |
+| Salesforce Certified Administrator | Salesforce | Dec 2023 |
+| Data Analytic Process Automation | AICTE | Feb 2023 |
 
 ---
 
